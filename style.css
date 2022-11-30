@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400;500;700&display=swap');
+body{
+    /* CSS goes here */
+background-color: rgb(226, 250, 235);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, serif;
+    font-size: 20pt;
+    /* fontcolor is color */
+    color: rgb(0, 0, 0);
+    
+}
+h1{text-align: center;}
+h1{font-family: 'Orbitron', sans-serif;}
+h1{color: gray;}
+h1{max-width: 30%;
+display: block;
+margin-left: auto;
+margin-right: auto;}
+
+p{text-align: center;} 
+p{
+  /* this specifies the max width of the paragraph */
+    max-width: 40%;
+    /* this will center the block */
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  
+}
+a{text-decoration: wavy;}
+a:hover{
+    color: rgb(17, 128, 72);
+}
+
+a{
+    color: rgb(0, 0, 0);
+    
+}
+
+
+.Fotodine{  display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+  }
